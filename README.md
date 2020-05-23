@@ -1,8 +1,8 @@
-# practice2
+# Todo App
 
-An app for practice Flutter
+This is an app created for practice Flutter Frameworks
 
-## Getting Started
+## Get Started
 
 This project is a starting point for a Flutter application.
 
